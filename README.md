@@ -1,2 +1,2 @@
 # ECG_Analysis
-ANALYSIS OF ECG SIGNALS TO DETERMINE HEART-RATE USING MATLAB
+The aim is to determine the heart rate of a person from his ECG signal and thus identify abnormalities in the functioning of the heart. 
